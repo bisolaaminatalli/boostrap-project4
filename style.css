@@ -61,7 +61,7 @@ a:hover {
   background-position: 0px -800px;
   height: 500px;
   font-family: "poppins";
-  margin: 4px;
+  margin-top: 100px;
 }
 
 .stylestory {
@@ -105,7 +105,7 @@ img {
 }
 .img-container {
   position: relative;
-  padding-top: 40px;
+  
 }
 
 .brand-icon {
@@ -121,7 +121,7 @@ img {
 }
 
 P{
-    margin-bottom: 0px !important;
+    margin-bottom: 2px !important;
 }
  .img-tag{
     width: 400px;
